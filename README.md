@@ -2,6 +2,9 @@
 
 This  was a final project for CSCI 6364 - Machine Learning, created by Derek Chen, Cynthia Driskell, and Oliver Krisetya
 
+To run the code, please install the dataset:
+[Computer Prices Dataset - Kaggle](https://www.kaggle.com/datasets/paperxd/all-computer-prices)
+
 ## CSCI 4364/6364 - Final Project
 
 ### Abstract
